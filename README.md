@@ -1,8 +1,11 @@
 Amazon Delivery Time Prediction:
 
 Submitted by: Manjula M
+
 Batch: AI/ML
+
 Date: 05-10-2025
+
 GitHub Link: https://github.com/Manjula1989/Amazon-Delivery-Time-Prediction.git
 
 Abstract
